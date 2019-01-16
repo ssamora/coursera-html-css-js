@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Oxygen', sans-serif;
+}
+
+.content {
+  position: relative;
+  border: 1px solid #000000;
+}
+
+.title {
+  position: relative;
+}
+
+.text{
+  position: absolute;
+  top:10;
+}
